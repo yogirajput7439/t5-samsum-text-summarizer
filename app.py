@@ -24,7 +24,7 @@ app = FastAPI(
 # 2. Model Path
 # ==========================================
 
-MODEL_PATH = "./saved_summary_model"
+MODEL_PATH = "yogirajput7439/t5-samsum-text-summarizer"
 
 
 # ==========================================
