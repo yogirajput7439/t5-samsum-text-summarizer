@@ -1,0 +1,13 @@
+saved_summary_model/
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.env
+
+.DS_Store
+
+.ipynb_checkpoints/
